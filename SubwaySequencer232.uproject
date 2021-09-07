@@ -1,0 +1,53 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "Samples",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PerformanceMonitor",
+			"Enabled": true
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControl",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualProductionUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualHeightfieldMesh",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": true
+		}
+	],
+	"EpicSampleNameHash": "3480472857"
+}
